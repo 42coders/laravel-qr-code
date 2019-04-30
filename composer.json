@@ -20,7 +20,7 @@
     ],
     "minimum-stability": "dev",
     "require": {
-        "42coders/qr-code": "^2.1"
+        "42coders/qr-code": "dev-master"
     },
     "autoload": {
         "psr-4": {
