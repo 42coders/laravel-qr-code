@@ -12,6 +12,12 @@
             "email": "max@42coders.com"  
         }
     ],
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/42coders/qr-code"
+        }
+    ],
     "minimum-stability": "dev",
     "require": {
         "42coders/qr-code": "^2.1"
